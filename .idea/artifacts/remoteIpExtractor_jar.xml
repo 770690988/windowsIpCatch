@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="remoteIpExtractor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/remoteIpExtractor_jar</output-path>
+    <root id="archive" name="remoteIpExtractor.jar">
+      <element id="module-output" name="remoteIpExtractor" />
+    </root>
+  </artifact>
+</component>
