@@ -1,8 +1,5 @@
 package org.example;
 
-import com.google.gson.Gson;
-import okhttp3.*;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
